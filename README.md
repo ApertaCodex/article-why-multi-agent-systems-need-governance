@@ -155,19 +155,3 @@ Multi-agent AI systems represent a fundamental shift in how enterprises use arti
 The organizations that invest in [purpose-built governance infrastructure](https://omnithium.ai/blog/ai-agent-governance-enterprise-guide.html) now: comprehensive traceability, automated policy enforcement, information flow controls, drift detection, and jurisdiction-aware routing: will be best positioned to deploy multi-agent systems safely, comply with emerging regulations, and build the organizational trust required to expand agent autonomy over time. Those that treat governance as an afterthought will find themselves constrained by the risks they cannot manage and the regulations they cannot satisfy.
 
 Visit [omnithium.ai](https://omnithium.ai) to see how Omnithium embeds governance, traceability, and policy enforcement directly into its multi-agent orchestration platform. Explore our [pricing](https://omnithium.ai/pricing) to get started.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/why-multi-agent-systems-need-governance).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
